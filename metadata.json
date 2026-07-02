@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Turbo",
+  "description": "Fast, lightweight web browser with data saving turbo mode and high speed downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
